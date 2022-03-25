@@ -1,0 +1,454 @@
+연도,학년,번호,문제명,알고리즘,추가 알고리즘,난이도,링크,비고,문제번호
+1996,초등,1,단지번호 붙이기,그래프 탐색(BFS/DFS),,Silver,https://www.acmicpc.net/problem/2667,전국,2667
+1996,초등,2,숫자고르기,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2668,전국,2668
+1996,초등,3,직사각형 네개의 합집합의 면적 구하기,구현,,Bronze,https://www.acmicpc.net/problem/2669,전국,2669
+1996,중등,1,연속부분최대곱,동적 프로그래밍,브루트포스,Silver,https://www.acmicpc.net/problem/2670,전국,2670
+1996,중등,2,잠수함식별,문자열,,Gold,https://www.acmicpc.net/problem/2671,전국,2671
+1996,중등,3,여러 직사각형의 전체 면적 구하기,스위핑,,Gold,https://www.acmicpc.net/problem/2672,전국,2672
+1996,고등,1,잠수함식별,문자열,,Gold,https://www.acmicpc.net/problem/2671,전국,2671
+1996,고등,2,교차하지 않는 원의 현들의 최대집합,동적 프로그래밍,,Platinum,https://www.acmicpc.net/problem/2673,전국,2673
+1996,고등,3,삼각퍼즐,백트래킹,,Diamond,https://www.acmicpc.net/problem/2674,전국,2674
+1997,초등,1,직각이등변삼각형찾기,구현,,Gold,https://www.acmicpc.net/problem/2658,전국,2658
+1997,초등,2,십자카드 문제,정렬,브루트포스,Silver,https://www.acmicpc.net/problem/2659,전국,2659
+1997,초등,3,회장뽑기,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2660,전국,2660
+1997,중등,1,좋은수열,백트래킹,,Gold,https://www.acmicpc.net/problem/2661,전국,2661
+1997,중등,2,기업투자,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2662,전국,2662
+1997,중등,3,간척지 만들기,그래프 탐색(BFS/DFS),,Platinum,https://www.acmicpc.net/problem/2663,전국,2663
+1997,고등,1,다각형의 확장,기하학,,Diamond,https://www.acmicpc.net/problem/2664,전국,2664
+1997,고등,2,미로만들기,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2665,전국,2665
+1997,고등,3,벽장문의 이동,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2666,전국,2666
+1998,초등,1,교차점 개수,기하학,,Gold,https://www.acmicpc.net/problem/2650,전국,2650
+1998,초등,2,자동차경주대회,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2651,전국,2651
+1998,초등,3,블록맞추기,구현,,Gold,https://www.acmicpc.net/problem/2652,전국,2652
+1998,중등,1,안정된 집단,구현,,Gold,https://www.acmicpc.net/problem/2653,전국,2653
+1998,중등,2,연결 사각형,구현,,Platinum,https://www.acmicpc.net/problem/2654,전국,2654
+1998,중등,3,가장 높은 탑 쌓기,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2655,전국,2655
+1998,고등,2,통나무 옮기기,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/1938,전국,1938
+1999,초등,1,다각형 그리기,구현,,Silver,https://www.acmicpc.net/problem/2641,전국,2641
+1999,초등,2,전개도,구현,,Platinum,https://www.acmicpc.net/problem/2642,전국,2642
+1999,초등,3,색종이 올려놓기,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2643,전국,2643
+1999,중등,1,촌수계산,그래프 탐색(BFS/DFS),,Silver,https://www.acmicpc.net/problem/2644,전국,2644
+1999,중등,2,회로배치,그래프 탐색(BFS/DFS),,Platinum,https://www.acmicpc.net/problem/2645,전국,2645
+1999,중등,3,같은 길이 막대기 만들기,백트래킹,,Platinum,https://www.acmicpc.net/problem/2646,전국,2646
+1999,고등,1,검은점과 하얀점 연결,동적 프로그래밍,,Platinum,https://www.acmicpc.net/problem/2647,전국,2647
+1999,고등,2,단순 사각형,구현,,Gold,https://www.acmicpc.net/problem/2648,전국,2648
+1999,고등,3,비상 연락망,,,Silver,https://www.acmicpc.net/problem/2649,전국,2649
+2000,초등,1,수 이어가기,구현,,Silver,https://www.acmicpc.net/problem/2635,전국,2635
+2000,초등,2,스위치 켜고 끄기,구현,,Gold,https://www.acmicpc.net/problem/1244,전국,1244
+2000,초등,3,치즈,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2636,전국,2636
+2000,중등,1,장남감 조립,위상정렬,동적 프로그래밍,Gold,https://www.acmicpc.net/problem/2637,전국,2637
+2000,중등,2,치즈,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2638,전국,2638
+2000,고등,1,수열 축소,동적 프로그래밍,,Platinum,https://www.acmicpc.net/problem/2237,전국,2237
+2001,초등,1,종이 자르기,정렬,,Silver,https://www.acmicpc.net/problem/2628,전국,2628
+2001,초등,2,양팔 저울,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2629,전국,2629
+2001,중등,1,색종이 만들기,분할 정복,,Silver,https://www.acmicpc.net/problem/2630,전국,2630
+2001,중등,2,줄 세우기,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2631,전국,2631
+2001,중등,3,피자 판매,이분 탐색,,Gold,https://www.acmicpc.net/problem/2632,전국,2632
+2001,고등,1,두 배열의 합,이분 탐색,,Gold,https://www.acmicpc.net/problem/2143,전국,2143
+2001,고등,2,로봇,그래프 탐색(BFS/DFS),,Platinum,https://www.acmicpc.net/problem/2633,전국,2633
+2001,고등,3,버스노선,,,NONE,https://www.acmicpc.net/problem/2634,전국,2634
+2002,초등,1,카드게임,구현,,Silver,https://www.acmicpc.net/problem/2621,전국,2621
+2002,초등,2,삼각형 만들기,수학,,Bronze,https://www.acmicpc.net/problem/2622,전국,2622
+2002,중등,1,위상 정렬,,,Gold,https://www.acmicpc.net/problem/2623,전국,2623
+2002,중등,2,동전 바꿔주기,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2624,전국,2624
+2002,중등,3,DNA 유사도,그래프 탐색(BFS/DFS),동적 프로그래밍,Platinum,https://www.acmicpc.net/problem/2625,전국,2625
+2002,고등,1,로봇 조종하기,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2169,전국,2169
+2002,고등,2,헬기 착륙장,기하학,,Diamond,https://www.acmicpc.net/problem/2626,전국,2626
+2003,초등,1,오목,구현,,Silver,https://www.acmicpc.net/problem/2615,전국,2615
+2003,초등,2,주사위 쌓기,구현,,Gold,https://www.acmicpc.net/problem/2116,전국,2116
+2003,초등,3,소형 기관차,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2616,전국,2616
+2003,중등,1,구술 찾기,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2617,전국,2617
+2003,중등,2,경찰차,동적 프로그래밍,,Platinum,https://www.acmicpc.net/problem/2618,전국,2618
+2003,중등,3,단순 사각형,그래프 탐색(BFS/DFS),,Platinum,https://www.acmicpc.net/problem/2619,전국,2619
+2003,고등,1,트리의 높이와 너비,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2250,전국,2250
+2003,고등,2,숫자박스,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/1983,전국,1983
+2003,고등,3,단순 사각형,그래프 탐색(BFS/DFS),,Platinum,https://www.acmicpc.net/problem/2620,전국,2620
+2004,초등,1,비밀편지,문자열,,Bronze,https://www.acmicpc.net/problem/2596,전국,2596
+2004,초등,2,줄자접기,구현,,Silver,https://www.acmicpc.net/problem/2597,전국,2597
+2004,초등,3,기둥만들기,동적 프로그래밍,비트마스킹,Platinum,https://www.acmicpc.net/problem/2598,전국,2598
+2004,중등,1,짝 정하기,브루트포스,,Silver,https://www.acmicpc.net/problem/2599,전국,2599
+2004,중등,2,구슬게임,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2600,전국,2600
+2004,중등,3,도서실 카펫,세그먼트 트리,,Platinum,https://www.acmicpc.net/problem/2601,전국,2601
+2004,고등,1,돌다리 건너기,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2602,전국,2602
+2004,고등,2,고속버스 노선,,,NONE,https://www.acmicpc.net/problem/2603,전국,2603
+2004,고등,3,농지 정리,,,Diamond,https://www.acmicpc.net/problem/2604,전국,2604
+2005,초등,1,숫자 게임,브루트포스,,Silver,https://www.acmicpc.net/problem/2604,전국,2604
+2005,초등,2,창고 다각형,스택,,Silver,https://www.acmicpc.net/problem/2304,전국,2304
+2005,초등,3,극장 좌석,동적 프로그래밍,,Silver,https://www.acmicpc.net/problem/2302,전국,2302
+2005,중등,1,자리 배치,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2305,전국,2305
+2005,중등,2,유전자,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2306,전국,2306
+2005,중등,3,도로검문,최단경로 알고리즘,,Gold,https://www.acmicpc.net/problem/2307,전국,2307
+2005,고등,1,양팔 저울,브루트포스,,Platinum,https://www.acmicpc.net/problem/1653,전국,1653
+2005,고등,2,경비행기,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2585,전국,2585
+2005,고등,3,소방차,동적 프로그래밍,그리디 알고리즘,Diamond,https://www.acmicpc.net/problem/2586,전국,2586
+2006,초등,1,임시 반장 정하기,구현,,Bronze,https://www.acmicpc.net/problem/1268,전국,1268
+2006,초등,2,빙산,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2573,전국,2573
+2006,초등,3,마법색종이,분할정복,,Diamond,https://www.acmicpc.net/problem/2574,전국,2574
+2006,중등,1,수열,수학,,Gold,https://www.acmicpc.net/problem/2575,전국,2575
+2006,중등,2,기지국,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2300,전국,2300
+2006,중등,3,로봇,기하학,세그먼트 트리,Diamond,https://www.acmicpc.net/problem/1218,전국,1218
+2006,고등,1,기지국,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2300,전국,2300
+2006,고등,2,두부 모판 자르기,동적 프로그래밍,,Platinum,https://www.acmicpc.net/problem/10937,전국,10937
+2006,고등,3,마법 구슬,수학,분할 정복,Platinum,https://www.acmicpc.net/problem/2301,전국,2301
+2007,초등,1,후보 추천하기,구현,,Silver,https://www.acmicpc.net/problem/1713,전국,1713
+2007,초등,2,모눈종이 자르기,구현,,Platinum,https://www.acmicpc.net/problem/2538,전국,2538
+2007,초등,3,모자이크,이분 탐색,,Gold,https://www.acmicpc.net/problem/2539,전국,2539
+2007,중등,1,계란,구현,,Platinum,https://www.acmicpc.net/problem/2540,전국,2540
+2007,중등,2,점,수학,,Gold,https://www.acmicpc.net/problem/2541,전국,2541
+2007,중등,3,양팔 저울,기하학,,Diamond,https://www.acmicpc.net/problem/2542,전국,2542
+2007,고등,1,점,수학,,Gold,https://www.acmicpc.net/problem/2541,전국,2541
+2007,고등,2,초고속철도,동적 프로그래밍,,Platinum,https://www.acmicpc.net/problem/2543,전국,2543
+2007,고등,3,격자판,이분 매칭,,Platinum,https://www.acmicpc.net/problem/2544,전국,2544
+2008,초등,1,절사 평균,정렬,실수 오차 처리,Silver,https://www.acmicpc.net/problem/6986,전국,6986
+2008,초등,2,월드컵,백트래킹,,Gold,https://www.acmicpc.net/problem/6987,전국,6987
+2008,초등,3,타일 밟기,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/6988,전국,6988
+2008,중등,1,월드컵,백트래킹,,Gold,https://www.acmicpc.net/problem/6987,전국,6987
+2008,중등,2,채점,동적 프로그래밍,비트마스킹,Platinum,https://www.acmicpc.net/problem/6989,전국,6989
+2008,중등,3,달팽이,기하학,,Diamond,https://www.acmicpc.net/problem/6990,전국,6990
+2008,고등,1,채점,동적 프로그래밍,비트마스킹,Platinum,https://www.acmicpc.net/problem/6989,전국,6989
+2008,고등,2,달팽이,기하학,정렬,Diamond,https://www.acmicpc.net/problem/6990,전국,6990
+2008,고등,3,계통 트리,그래프 이론,해싱,Platinum,https://www.acmicpc.net/problem/6991,전국,6991
+2009,초등,1,대표 자연수,브루트포스,정렬,Silver,https://www.acmicpc.net/problem/2548,전국,2548
+2009,초등,2,루빅의 사각형,그래프 이론,양방향 탐색,Platinum,https://www.acmicpc.net/problem/2549,전국,2549
+2009,초등,3,전구,동적 프로그래밍,LIS,Gold,https://www.acmicpc.net/problem/2550,전국,2550
+2009,중등,1,두 대표 자연수,정렬,,Gold,https://www.acmicpc.net/problem/2551,전국,2551
+2009,중등,2,전구숫자,중간에서 만나기,비트마스킹,Platinum,https://www.acmicpc.net/problem/2552,전국,2552
+2009,중등,3,줄다리기,누적합,이분 탐색,Platinum,https://www.acmicpc.net/problem/2488,전국,2488
+2009,고등,1,섞기 수열,수학,,Gold,https://www.acmicpc.net/problem/2487,전국,2487
+2009,고등,2,줄다리기,누적합,이분 탐색,Platinum,https://www.acmicpc.net/problem/2488,전국,2488
+2009,고등,3,응급실,그리디 알고리즘,애드 훅,Diamond,https://www.acmicpc.net/problem/2489,전국,2489
+2010,초등,1,용액,투 포인터,,Gold,https://www.acmicpc.net/problem/2467,전국,2467
+2010,초등,2,안전 영역,그래프 탐색(BFS/DFS),,Silver,https://www.acmicpc.net/problem/2468,전국,2468
+2010,초등,3,사다리 타기,구현,,Silver,https://www.acmicpc.net/problem/2469,전국,2469
+2010,중등,1,두 용액,투 포인터,이분 탐색,Gold,https://www.acmicpc.net/problem/2470,전국,2470
+2010,중등,2,모빌 이진수,우선순위 큐,,Platinum,https://www.acmicpc.net/problem/2471,전국,2471
+2010,중등,3,체인점,최단경로 알고리즘,세그먼트 트리,Platinum,https://www.acmicpc.net/problem/2472,전국,2472
+2010,고등,1,세 용액,투 포인터,이분 탐색,Gold,https://www.acmicpc.net/problem/2473,전국,2473
+2010,고등,2,체인점,최단경로 알고리즘,세그먼트 트리,Platinum,https://www.acmicpc.net/problem/2472,전국,2472
+2010,고등,3,교차 선분,큐,그리디 알고리즘,Platinum,https://www.acmicpc.net/problem/2474,전국,2474
+2011,초등,1,수열,슬라이딩 윈도우,,Silver,https://www.acmicpc.net/problem/2559,전국,2559
+2011,초등,2,공약수,수학,,Gold,https://www.acmicpc.net/problem/2436,전국,2436
+2011,초등,3,저울,그리디 알고리즘,,Gold,https://www.acmicpc.net/problem/2437,전국,2437
+2011,초등,4,전구,동적 프로그래밍,,Platinum,https://www.acmicpc.net/problem/2449,전국,2449
+2011,중등,1,공약수,수학,,Gold,https://www.acmicpc.net/problem/2436,전국,2436
+2011,중등,2,모양정돈,브루트포스,,Gold,https://www.acmicpc.net/problem/2450,전국,2450
+2011,중등,3,모둠,동적 프로그래밍,,Platinum,https://www.acmicpc.net/problem/2451,전국,2451
+2011,중등,4,그리드 게임,그래프 탐색(BFS/DFS),,Platinum,https://www.acmicpc.net/problem/2452,전국,2452
+2011,고등,1,공약수,수학,,Gold,https://www.acmicpc.net/problem/2436,전국,2436
+2011,고등,2,부서배치,동적 프로그래밍,분리 집합,Platinum,https://www.acmicpc.net/problem/2453,전국,2453
+2011,고등,3,트리 분할,동적 프로그래밍,그리디 알고리즘,Platinum,https://www.acmicpc.net/problem/2454,전국,2454
+2011,고등,4,그리드 게임,그래프 탐색(BFS/DFS),,Platinum,https://www.acmicpc.net/problem/2452,전국,2452
+2012,초등,1,카드놀이,구현,,Bronze,https://www.acmicpc.net/problem/2511,전국,2511
+2012,초등,2,예산,이분 탐색,,Silver,https://www.acmicpc.net/problem/2512,전국,2512
+2012,초등,3,통학 버스,그리디 알고리즘,정렬,Gold,https://www.acmicpc.net/problem/2513,전국,2513
+2012,초등,4,자동 분무기,수학,,Platinum,https://www.acmicpc.net/problem/2514,전국,2514
+2012,중등,1,예산,이분 탐색,,Silver,https://www.acmicpc.net/problem/2512,전국,2512
+2012,중등,2,전시장,동적 프로그래밍,이분 탐색,Gold,https://www.acmicpc.net/problem/2515,전국,2515
+2012,중등,3,원숭이,구현,,Platinum,https://www.acmicpc.net/problem/2516,전국,2516
+2012,중등,4,자동 분무기,수학,,Platinum,https://www.acmicpc.net/problem/22021,전국,22021
+2012,고등,1,예산,이분 탐색,,Silver,https://www.acmicpc.net/problem/2512,전국,2512
+2012,고등,2,달리기,세그먼트 트리,값/좌표 압축,Platinum,https://www.acmicpc.net/problem/2517,전국,2517
+2012,고등,3,회전 테이블,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2518,전국,2518
+2012,고등,4,막대기,그래프 이론,기하학,Diamond,https://www.acmicpc.net/problem/2519,전국,2519
+2013,초등,1,올림픽,정렬,,Silver,https://www.acmicpc.net/problem/8979,전국,8979
+2013,초등,2,택배,그리디 알고리즘,정렬,Gold,https://www.acmicpc.net/problem/8980,전국,8980
+2013,초등,3,입력 숫자,구현,,Gold,https://www.acmicpc.net/problem/8981,전국,8981
+2013,초등,4,수족관 1,구현,,Gold,https://www.acmicpc.net/problem/8982,전국,8982
+2013,중등,1,사냥꾼,이분 탐색,,Gold,https://www.acmicpc.net/problem/8983,전국,8983
+2013,중등,2,입력 숫자,구현,,Gold,https://www.acmicpc.net/problem/8981,전국,8981
+2013,중등,3,막대기,동적 프로그래밍,정렬,Platinum,https://www.acmicpc.net/problem/8984,전국,8984
+2013,중등,4,수족관 2,분할 정복,세그먼트 트리,Platinum,https://www.acmicpc.net/problem/8985,전국,8985
+2013,고등,1,사냥꾼,이분 탐색,,Gold,https://www.acmicpc.net/problem/8983,전국,8983
+2013,고등,2,막대기,동적 프로그래밍,정렬,Platinum,https://www.acmicpc.net/problem/8984,전국,8984
+2013,고등,3,전봇대,삼분 탐색,,Platinum,https://www.acmicpc.net/problem/8986,전국,8986
+2013,고등,4,수족관 3,그리디 알고리즘,분할 정복,Diamond,https://www.acmicpc.net/problem/8987,전국,8987
+2014,초등,1,전자레인지,그리디 알고리즘,,Bronze,https://www.acmicpc.net/problem/10162,전국,10162
+2014,초등,2,색종이,구현,,Bronze,https://www.acmicpc.net/problem/10163,전국,10163
+2014,초등,3,격자상의 경로,동적 프로그래밍,,Silver,https://www.acmicpc.net/problem/10164,전국,10164
+2014,초등,4,버스 노선,그리디 알고리즘,스위핑,Platinum,https://www.acmicpc.net/problem/10165,전국,10165
+2014,중등,1,격자상의 경로,동적 프로그래밍,,Silver,https://www.acmicpc.net/problem/10164,전국,10164
+2014,중등,2,관중석,수학,,Silver,https://www.acmicpc.net/problem/10166,전국,10166
+2014,중등,3,버스 노선,그리디 알고리즘,스위핑,Platinum,https://www.acmicpc.net/problem/10165,전국,10165
+2014,중등,4,금광,세그먼트 트리,값/좌표 압축,Diamond,https://www.acmicpc.net/problem/10167,전국,10167
+2014,고등,1,관중석,수학,,Silver,https://www.acmicpc.net/problem/10166,전국,10166
+2014,고등,2,버스 노선,그리디 알고리즘,스위핑,Platinum,https://www.acmicpc.net/problem/10165,전국,10165
+2014,고등,3,파발마,동적 프로그래밍,컨벡스헐 트릭,Diamond,https://www.acmicpc.net/problem/10168,전국,10168
+2014,고등,4,안전한 비상연락망,트리,분리 집합,Diamond,https://www.acmicpc.net/problem/10169,전국,10169
+2015,초등,1,사과,수학,,Bronze,https://www.acmicpc.net/problem/10833,전국,10833
+2015,초등,2,벨트,수학,,Bronze,https://www.acmicpc.net/problem/10834,전국,10834
+2015,초등,3,카드 게임,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/10835,전국,10835
+2015,초등,4,여왕벌,구현,,Gold,https://www.acmicpc.net/problem/10836,전국,10836
+2015,중등,1,동전 게임,수학,,Silver,https://www.acmicpc.net/problem/10837,전국,10837
+2015,중등,2,카드 게임,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/10835,전국,10835
+2015,중등,3,트리,최소 공통 조상,,Gold,https://www.acmicpc.net/problem/10838,전국,10838
+2015,중등,4,미술관,컨벡스헐,,Platinum,https://www.acmicpc.net/problem/10839,전국,10839
+2015,고등,1,동전 게임,수학,,Silver,https://www.acmicpc.net/problem/10837,전국,10837
+2015,고등,2,구간 성분,해싱,,Gold,https://www.acmicpc.net/problem/10840,전국,10840
+2015,고등,3,매트,동적 프로그래밍,스위핑,Diamond,https://www.acmicpc.net/problem/10841,전국,10841
+2015,고등,4,여왕벌,분할 정복,,Ruby,https://www.acmicpc.net/problem/10842,전국,10842
+2016,초등,1,방 배정,수학,,Bronze,https://www.acmicpc.net/problem/13300,전국,13300
+2016,초등,2,타일 장식물,동적 프로그래밍,,Silver,https://www.acmicpc.net/problem/13301,전국,13301
+2016,초등,3,리조트,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/13302,전국,13302
+2016,초등,4,장애물 경기,셋,,Platinum,https://www.acmicpc.net/problem/13303,전국,13303
+2016,중등,1,방 배정,수학,,Bronze,https://www.acmicpc.net/problem/13304,전국,13304
+2016,중등,2,주유소,그리디 알고리즘,,Silver,https://www.acmicpc.net/problem/13305,전국,13305
+2016,중등,3,트리,오프라인 쿼리,분리 집합,Platinum,https://www.acmicpc.net/problem/13306,전국,13306
+2016,중등,4,레이저 센서,분할 정복,컨벡스헐,Diamond,https://www.acmicpc.net/problem/13307,전국,13307
+2016,고등,1,리조트,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/13302,전국,13302
+2016,고등,2,주유소,최단경로 알고리즘,,Platinum,https://www.acmicpc.net/problem/13308,전국,13308
+2016,고등,3,트리,세그먼트 트리,오일러 경로 테크닉,Platinum,https://www.acmicpc.net/problem/13309,전국,13309
+2016,고등,4,먼 별,삼분 탐색,컨벡스헐,Diamond,https://www.acmicpc.net/problem/13310,전국,13310
+2017,초등,1,딱지놀이,구현,,Bronze,https://www.acmicpc.net/problem/14696,전국,14696
+2017,초등,2,방 배정하기,수학,,Bronze,https://www.acmicpc.net/problem/14697,전국,14697
+2017,초등,3,서울에서 경산까지,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/14863,전국,14863
+2017,초등,4,줄 서기,수학,,Gold,https://www.acmicpc.net/problem/14864,전국,14864
+2017,중등,1,방 배정하기,수학,,Bronze,https://www.acmicpc.net/problem/14864,전국,14864
+2017,중등,2,곡선 자르기,구현,,Gold,https://www.acmicpc.net/problem/14865,전국,14865
+2017,중등,3,줄 서기,수학,,Gold,https://www.acmicpc.net/problem/14864,전국,14864
+2017,중등,4,산만한 고양이,그래프 탐색(BFS/DFS),단절점/단절선,Platinum,https://www.acmicpc.net/problem/14866,전국,14866
+2017,고등,1,물통,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/14867,전국,14867
+2017,고등,2,문명,그래프 탐색(BFS/DFS),분리 집합,Platinum,https://www.acmicpc.net/problem/14868,전국,14868
+2017,고등,3,요리 강좌,동적 프로그래밍,덱,Diamond,https://www.acmicpc.net/problem/14869,전국,14869
+2017,고등,4,조개 줍기,동적 프로그래밍,세그먼트 트리,Diamond,https://www.acmicpc.net/problem/14870,전국,14870
+2018,초등,1,행복,구현,,Bronze,https://www.acmicpc.net/problem/15969,전국,15969
+2018,초등,2,화살표 그리기,브루트포스,,Silver,https://www.acmicpc.net/problem/15970,전국,15970
+2018,초등,3,두 로봇,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/15971,전국,15971
+2018,초등,4,물탱크,그래프 탐색(BFS/DFS),우선순위 큐,Platinum,https://www.acmicpc.net/problem/15972,전국,15972
+2018,중등,1,두 박스,수학,,Silver,https://www.acmicpc.net/problem/15973,전국,15973
+2018,중등,2,두 로봇,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/15971,전국,15971
+2018,중등,3,물탱크,그래프 탐색(BFS/DFS),우선순위 큐,Platinum,https://www.acmicpc.net/problem/15972,전국,15972
+2018,중등,4,공룡 발자국,동적 프로그래밍,기하학,Diamond,https://www.acmicpc.net/problem/15974,전국,15974
+2018,고등,1,화살표 그리기,정렬,,Silver,https://www.acmicpc.net/problem/15975,전국,15975
+2018,고등,2,Xcorr,이분 탐색,누적합,Gold,https://www.acmicpc.net/problem/15976,전국,15976
+2018,고등,3,조화로운 행렬,동적 프로그래밍,LIS,Diamond,https://www.acmicpc.net/problem/15977,전국,15977
+2018,고등,4,족보,그래프 탐색(BFS/DFS),분리 집합,Diamond,https://www.acmicpc.net/problem/15978,전국,15978
+2019,초등,1,막대기,스택,,Bronze,https://www.acmicpc.net/problem/17608,전국,17608
+2019,초등,2,회문,투 포인터,,Silver,https://www.acmicpc.net/problem/17609,전국,17609
+2019,초등,3,369,브루트포스,,Bronze,https://www.acmicpc.net/problem/17614,전국,17614
+2019,초등,4,볼 모으기,그리디 알고리즘,,Silver,https://www.acmicpc.net/problem/17615,전국,17615
+2019,초등,5,등수 찾기,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/17616,전국,17616
+2019,초등,6,로봇,그리디 알고리즘,,Diamond,https://www.acmicpc.net/problem/17617,전국,17617
+2019,중등,1,양팔 저울,브루트포스,,Silver,https://www.acmicpc.net/problem/17610,전국,17610
+2019,중등,2,직각다각형,누적합,스위핑,Gold,https://www.acmicpc.net/problem/17611,전국,17611
+2019,중등,3,신기한 수,구현,,Bronze,https://www.acmicpc.net/problem/17618,전국,17618
+2019,중등,4,개구리 점프,분리 집합,,Gold,https://www.acmicpc.net/problem/17619,전국,17619
+2019,중등,5,물 채우기,구현,,Platinum,https://www.acmicpc.net/problem/17621,전국,17621
+2019,고등,1,쇼핑몰,우선순위 큐,,Gold,https://www.acmicpc.net/problem/17612,전국,17612
+2019,고등,2,점프,동적 프로그래밍,분할 정복,Platinum,https://www.acmicpc.net/problem/17613,전국,17613
+2019,고등,3,타일 교체,브루트포스,,Gold,https://www.acmicpc.net/problem/17622,전국,17622
+2019,고등,4,괄호,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/17623,전국,17623
+2019,고등,5,검은 돌,동적 프로그래밍,트리,Diamond,https://www.acmicpc.net/problem/17624,전국,17624
+2019,고등,6,고압선,기하학,스위핑,Diamond,https://www.acmicpc.net/problem/17625,전국,17625
+2020,초등,1,박 터뜨리기,수학,,Silver,https://www.acmicpc.net/problem/19939,전국,19939
+2020,초등,2,피자 오븐,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/19940,전국,19940
+2020,초등,3,수 고르기,정렬,,Silver,https://www.acmicpc.net/problem/20186,전국,20186
+2020,초등,4,종이접기,구현,,Gold,https://www.acmicpc.net/problem/20187,전국,20187
+2020,초등,5,등산 마니아,동적 프로그래밍,트리,Platinum,https://www.acmicpc.net/problem/20188,전국,20188
+2020,초등,6,사탕 돌리기,그리디 알고리즘,,Platinum,https://www.acmicpc.net/problem/20189,전국,20189
+2020,중등,1,햄버거 분배,그리디 알고리즘,,Silver,https://www.acmicpc.net/problem/19941,전국,19941
+2020,중등,2,다이어트,브루트포스,,Gold,https://www.acmicpc.net/problem/19942,전국,19942
+2020,중등,3,종이접기,구현,,Gold,https://www.acmicpc.net/problem/20187,전국,20187
+2020,중등,4,등산 마니아,동적 프로그래밍,트리,Platinum,https://www.acmicpc.net/problem/20188,전국,20188
+2020,중등,5,버블버블,세그먼트 트리,느린 갱신 세그먼트 트리,Platinum,https://www.acmicpc.net/problem/20190,전국,20190
+2020,중등,6,화려한 정사각형,세그먼트 트리,느린 갱신 세그먼트 트리,Diamond,https://www.acmicpc.net/problem/20193,전국,20193
+2020,고등,1,박 터뜨리기,수학,,Silver,https://www.acmicpc.net/problem/19939,전국,19939
+2020,고등,2,햄버거 분배,그리디 알고리즘,,Gold,https://www.acmicpc.net/problem/19941,전국,19941
+2020,고등,3,조명등,동적 프로그래밍,컨벡스헐 트릭,Diamond,https://www.acmicpc.net/problem/19943,전국,19943
+2020,고등,4,줄임말,동적 프로그래밍,이분 탐색,Gold,https://www.acmicpc.net/problem/20191,전국,20191
+2020,고등,5,순서 섞기,애드 훅,,Platinum,https://www.acmicpc.net/problem/20192,전국,20192
+2020,고등,6,화려한 정사각형,세그먼트 트리,느린 갱신 세그먼트 트리,Diamond,https://www.acmicpc.net/problem/20193,전국,20193
+2020,고등,7,경계 로봇,그리디 알고리즘,,Diamond,https://www.acmicpc.net/problem/20194,전국,20194
+2021,초등,1,지우개,수학,,Bronze,https://www.acmicpc.net/problem/21756,전국,21756
+2021,초등,2,나누기,동적 프로그래밍,누적합,Gold,https://www.acmicpc.net/problem/21757,전국,21757
+2021,초등,3,사각형 면적,수학,,Bronze,https://www.acmicpc.net/problem/22341,전국,22341
+2021,초등,4,계산 로봇,동적 프로그래밍,,Silver,https://www.acmicpc.net/problem/22342,전국,22342
+2021,초등,5,괄호의 값 비교,수학,문자열,Gold,https://www.acmicpc.net/problem/22343,전국,22343
+2021,초등,6,그래프 균형 맞추기,그래프 탐색(BFS/DFS),수학,Platinum,https://www.acmicpc.net/problem/22344,전국,22344
+2021,중등,1,꿀 따기,그리디 알고리즘,누적합,Silver,https://www.acmicpc.net/problem/21758,전국,21758
+2021,중등,2,두 개의 팀,동적 프로그래밍,트리,Platinum,https://www.acmicpc.net/problem/21759,전국,21759
+2021,중등,3,계산 로봇,동적 프로그래밍,,Silver,https://www.acmicpc.net/problem/22342,전국,22342
+2021,중등,4,누적 거리,정렬,,Gold,https://www.acmicpc.net/problem/22345,전국,22345
+2021,중등,5,일이 이어져야 좋다,분할 정복,,Platinum,https://www.acmicpc.net/problem/22346,전국,22346
+2021,중등,6,공통 괄호 문자열 사전,이분 탐색,문자열,Diamond,https://www.acmicpc.net/problem/22347,전국,22347
+2021,고등,1,야구 시즌,수학,,Bronze,https://www.acmicpc.net/problem/21760,전국,21760
+2021,고등,2,초직사각형,그리디 알고리즘,수학,Gold,https://www.acmicpc.net/problem/21761,전국,21761
+2021,고등,3,공통 부분 수열 확장,그리디 알고리즘,누적합,Platinum,https://www.acmicpc.net/problem/21762,전국,21762
+2021,고등,4,헬기 착륙장,동적 프로그래밍,,Platinum,https://www.acmicpc.net/problem/22348,전국,22348
+2021,고등,5,그래프 균형 맞추기,그래프 탐색(BFS/DFS),수학,Platinum,https://www.acmicpc.net/problem/22344,전국,22344
+2021,고등,6,가장 긴 공통 괄호 문자열,세그먼트 트리,문자열,Diamond,https://www.acmicpc.net/problem/22349,전국,22349
+2021,고등,7,맛집 추천,동적 프로그래밍,트리,Diamond,https://www.acmicpc.net/problem/22350,전국,22350
+2004,초등,1,일곱 난쟁이,정렬,,Bronze,https://www.acmicpc.net/problem/2309,지역본선,2309
+2004,초등,2,줄 세우기,연결 리스트,,Bronze,https://www.acmicpc.net/problem/2605,지역본선,2605
+2004,초등,3,바이러스,그래프 탐색(BFS/DFS),분리 집합,Silver,https://www.acmicpc.net/problem/2606,지역본선,2606
+2004,초등,4,비슷한 단어,문자열,,Silver,https://www.acmicpc.net/problem/2607,지역본선,2607
+2004,초등,5,로마 숫자,문자열,,Silver,https://www.acmicpc.net/problem/2608,지역본선,2608
+2004,중등,1,최대공약수와 최소공배수,수학,,Silver,https://www.acmicpc.net/problem/2609,지역본선,2609
+2004,중등,2,비슷한 단어,문자열,,Silver,https://www.acmicpc.net/problem/2607,지역본선,2607
+2004,중등,3,회의 준비,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2610,지역본선,2610
+2004,중등,4,자동차 경주,위상 정렬,동적 프로그래밍,Gold,https://www.acmicpc.net/problem/2611,지역본선,2611
+2004,중등,5,DNA 유사도,동적 프로그래밍,,Platinum,https://www.acmicpc.net/problem/2612,지역본선,2612
+2004,고등,1,최대공약수와 최소공배수,수학,,Silver,https://www.acmicpc.net/problem/2609,지역본선,2609
+2004,고등,2,로마 숫자,문자열,,Silver,https://www.acmicpc.net/problem/2608,지역본선,2608
+2004,고등,3,회의 준비,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2610,지역본선,2610
+2004,고등,4,숫자 구슬,이분 탐색,누적합,Gold,https://www.acmicpc.net/problem/2613,지역본선,2613
+2004,고등,5,청개구리,수학,백트래킹,Diamond,https://www.acmicpc.net/problem/2614,지역본선,2614
+2005,초등,1,대표값2,수학,,Bronze,https://www.acmicpc.net/problem/2587,지역본선,2587
+2005,초등,2,곱셈,수학,,Bronze,https://www.acmicpc.net/problem/2588,지역본선,2588
+2005,초등,3,보물섬,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2589,지역본선,2589
+2005,초등,4,색종이,그리디 알고리즘,,Gold,https://www.acmicpc.net/problem/2590,지역본선,2590
+2005,초등,5,숫자 카드,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2591,지역본선,2591
+2005,중등,1,대표값,수학,,Bronze,https://www.acmicpc.net/problem/2592,지역본선,2592
+2005,중등,2,색종이,그리디 알고리즘,,Gold,https://www.acmicpc.net/problem/2590,지역본선,2590
+2005,중등,3,숫자 카드,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2591,지역본선,2591
+2005,중등,4,엘리베이터,그래프 탐색(BFS/DFS),,Platinum,https://www.acmicpc.net/problem/2593,지역본선,2593
+2005,중등,5,화물열차,수학,구현,Diamond,https://www.acmicpc.net/problem/1665,지역본선,1665
+2005,고등,1,대표값,수학,,Bronze,https://www.acmicpc.net/problem/2592,지역본선,2592
+2005,고등,2,놀이공원,구현,스위핑,Silver,https://www.acmicpc.net/problem/2594,지역본선,2594
+2005,고등,3,로봇,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/1726,지역본선,1726
+2005,고등,4,화물열차,수학,구현,Diamond,https://www.acmicpc.net/problem/1665,지역본선,1665
+2005,고등,5,배수,그래프 탐색(BFS/DFS),수학,Platinum,https://www.acmicpc.net/problem/2595,지역본선,2595
+2006,초등,1,홀수,수학,,Bronze,https://www.acmicpc.net/problem/2576,지역본선,2576
+2006,초등,2,숫자의 구현,수학,,Bronze,https://www.acmicpc.net/problem/2577,지역본선,2577
+2006,초등,3,빙고,구현,,Silver,https://www.acmicpc.net/problem/2578,지역본선,2578
+2006,초등,4,계단 오르기,동적 프로그래밍,,Silver,https://www.acmicpc.net/problem/2579,지역본선,2579
+2006,초등,5,스도쿠,백트래킹,,Gold,https://www.acmicpc.net/problem/2580,지역본선,2580
+2006,중등,1,소수,수학,,Silver,https://www.acmicpc.net/problem/2581,지역본선,2581
+2006,중등,2,빙고,구현,,Silver,https://www.acmicpc.net/problem/2578,지역본선,2578
+2006,중등,3,스도쿠,백트래킹,,Gold,https://www.acmicpc.net/problem/2580,지역본선,2580
+2006,중등,4,동전 뒤집기,휴리스틱,담금질 기법,Platinum,https://www.acmicpc.net/problem/2582,지역본선,2582
+2006,중등,5,택배,동적 프로그래밍,수학,Platinum,https://www.acmicpc.net/problem/1866,지역본선,1866
+2006,고등,1,완전제곱수,수학,,Bronze,https://www.acmicpc.net/problem/1977,지역본선,1977
+2006,고등,2,영역 구하기,그래프 탐색(BFS/DFS),,Silver,https://www.acmicpc.net/problem/2583,지역본선,2583
+2006,고등,3,내리막길,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/1520,지역본선,1520
+2006,고등,4,동전 뒤집기2,휴리스틱,담금질 기법,Platinum,https://www.acmicpc.net/problem/2582,지역본선,2582
+2006,고등,5,트리 분할,동적 프로그래밍,트리,Diamond,https://www.acmicpc.net/problem/2584,지역본선,2584
+2007,초등,1,최댓값,구현,,Bronze,https://www.acmicpc.net/problem/2562,지역본선,2562
+2007,초등,2,색종이,구현,,Bronze,https://www.acmicpc.net/problem/2563,지역본선,2563
+2007,초등,3,경비원,구현,,Silver,https://www.acmicpc.net/problem/2564,지역본선,2564
+2007,초등,4,전깃줄,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2565,지역본선,2565
+2007,초등,5,비숍,백트래킹,,Gold,https://www.acmicpc.net/problem/1799,지역본선,1799
+2007,중등,1,최댓값,구현,,Bronze,https://www.acmicpc.net/problem/2566,지역본선,2566
+2007,중등,2,색종이2,구현,,Silver,https://www.acmicpc.net/problem/2567,지역본선,2567
+2007,중등,3,전깃줄2,LIS,,Platinum,https://www.acmicpc.net/problem/2568,지역본선,2568
+2007,중등,4,짐 정리,그리디 알고리즘,,Platinum,https://www.acmicpc.net/problem/2569,지역본선,2569
+2007,중등,5,비숍2,이분 매칭,,Platinum,https://www.acmicpc.net/problem/2570,지역본선,2570
+2007,고등,1,최댓값,구현,,Bronze,https://www.acmicpc.net/problem/2566,지역본선,2566
+2007,고등,2,색종이3,분할 정복,누적합,Gold,https://www.acmicpc.net/problem/2571,지역본선,2571
+2007,고등,3,보드게임,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2572,지역본선,2572
+2007,고등,4,정사각형 자르기,기하학,,Platinum,https://www.acmicpc.net/problem/1604,지역본선,1604
+2007,고등,5,팰린드롬,동적 프로그래밍,,Diamond,https://www.acmicpc.net/problem/1243,지역본선,1243
+2008,초등,1,약수 구하기,수학,,Bronze,https://www.acmicpc.net/problem/2501,지역본선,2501
+2008,초등,2,떡 먹는 호랑이,동적 프로그래밍,,Silver,https://www.acmicpc.net/problem/2502,지역본선,2502
+2008,초등,3,숫자 야구,브루트포스,,Silver,https://www.acmicpc.net/problem/2503,지역본선,2503
+2008,초등,4,괄호의 값,스택,,Silver,https://www.acmicpc.net/problem/2504,지역본선,2504
+2008,초등,5,두 번 뒤집기,애드 훅,,Platinum,https://www.acmicpc.net/problem/2505,지역본선,2505
+2008,중등,1,점수 게산,수학,,Bronze,https://www.acmicpc.net/problem/2506,지역본선,2506
+2008,중등,2,괄호의 값,스택,,Silver,https://www.acmicpc.net/problem/2504,지역본선,2504
+2008,중등,3,두 번 뒤집기,애드 훅,,Platinum,https://www.acmicpc.net/problem/2505,지역본선,2505
+2008,중등,4,공주 구하기,동적 프로그래밍,바이토닉 투어,Platinum,https://www.acmicpc.net/problem/2507,지역본선,2507
+2008,중등,5,평면도,,,Diamond,https://www.acmicpc.net/problem/1295,지역본선,1295
+2008,고등,1,점수 계산,수학,,Bronze,https://www.acmicpc.net/problem/2506,지역본선,2506
+2008,고등,2,짚신 벌레,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2560,지역본선,2560
+2008,고등,3,공주 구하기,동적 프로그래밍,바이토닉 투어,Platinum,https://www.acmicpc.net/problem/2507,지역본선,2507
+2008,고등,4,세 번 뒤집기,백트래킹,애드 훅,Diamond,https://www.acmicpc.net/problem/2561,지역본선,2561
+2008,고등,5,평면도,,,Diamond,https://www.acmicpc.net/problem/1295,지역본선,1295
+2009,초등,1,윷놀이,구현,,Bronze,https://www.acmicpc.net/problem/2490,지역본선,2490
+2009,초등,2,수열,동적 프로그래밍,,Silver,https://www.acmicpc.net/problem/2491,지역본선,2491
+2009,초등,3,보석,슬라이딩 윈도우,,Gold,https://www.acmicpc.net/problem/2492,지역본선,2492
+2009,초등,4,탑,스택,,Gold,https://www.acmicpc.net/problem/2493,지역본선,2493
+2009,초등,5,숫자 맞추기,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2494,지역본선,2494
+2009,초등,5,방법을 출력하지 않는 숫자 맞추기 ,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/13392,지역본선,13392
+2009,중등,1,연속 구간,문자열,,Bronze,https://www.acmicpc.net/problem/2495,지역본선,2495
+2009,중등,2,금광석,기하학,,Platinum,https://www.acmicpc.net/problem/2496,지역본선,2496
+2009,중등,3,숫자 맞추기,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2494,지역본선,2494
+2009,중등,3,방법을 출력하지 않는 숫자 맞추기 ,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/13392,지역본선,13392
+2009,중등,4,횡단보도,,,Platinum,https://www.acmicpc.net/problem/2497,지역본선,2497
+2009,중등,5,중앙 문자열,그리디 알고리즘,,Platinum,https://www.acmicpc.net/problem/2498,지역본선,2498
+2009,고등,1,연속 구간,문자열,,Bronze,https://www.acmicpc.net/problem/2495,지역본선,2495
+2009,고등,2,탑,스택,,Gold,https://www.acmicpc.net/problem/2493,지역본선,2493
+2009,고등,3,의좋은 형제,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2499,지역본선,2499
+2009,고등,4,복불복,수학,,Platinum,https://www.acmicpc.net/problem/2500,지역본선,2500
+2009,고등,5,중앙 문자열,그리디 알고리즘,,Platinum,https://www.acmicpc.net/problem/2498,지역본선,2498
+2010,초등,1,검증수,구현,,Bronze,https://www.acmicpc.net/problem/2475,지역본선,2475
+2010,초등,2,주사위 게임,수학,,Bronze,https://www.acmicpc.net/problem/2476,지역본선,2476
+2010,초등,3,참외밭,수학,애드 훅,Silver,https://www.acmicpc.net/problem/2477,지역본선,2477
+2010,초등,4,자물쇠,그리디 알고리즘,,Gold,https://www.acmicpc.net/problem/2478,지역본선,2478
+2010,초등,5,경로 찾기,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2479,지역본선,2479
+2010,중등,1,주사위 세 개,수학,,Bronze,https://www.acmicpc.net/problem/2480,지역본선,2480
+2010,중등,2,참외밭,수학,에드 훅,Silver,https://www.acmicpc.net/problem/2477,지역본선,2477
+2010,중등,3,해밍 경로,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2481,지역본선,2481
+2010,중등,4,색상환,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2482,지역본선,2482
+2010,중등,5,병원,,,Diamond,https://www.acmicpc.net/problem/2483,지역본선,2483
+2010,고등,1,주사위 네 개,수학,,Bronze,https://www.acmicpc.net/problem/2484,지역본선,2484
+2010,고등,2,가로수,수학,,Silver,https://www.acmicpc.net/problem/2485,지역본선,2485
+2010,고등,3,색상환,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/2482,지역본선,2482
+2010,고등,4,병원,,,Diamond,https://www.acmicpc.net/problem/2483,지역본선,2483
+2010,고등,5,그레이 코드,구현,,Diamond,https://www.acmicpc.net/problem/2486,지역본선,2486
+2011,초등,1,지능형 기차,수학,,Bronze,https://www.acmicpc.net/problem/2455,지역본선,2455
+2011,초등,2,나는 학급 회장이다,구현,,Bronze,https://www.acmicpc.net/problem/2456,지역본선,2456
+2011,초등,3,공주님의 정원,그리디 알고리즘,,Gold,https://www.acmicpc.net/problem/2457,지역본선,2457
+2011,초등,4,키 순서,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/2458,지역본선,2458
+2011,초등,5,철사 자르기,구현,,Gold,https://www.acmicpc.net/problem/2459,지역본선,2459
+2011,중등,1,지능형 기차2,수학,,Bronze,https://www.acmicpc.net/problem/2460,지역본선,2460
+2011,중등,2,공주님의 정원,그리디 알고리즘,,Gold,https://www.acmicpc.net/problem/2457,지역본선,2457
+2011,중등,3,대표 선수,투 포인터,,Gold,https://www.acmicpc.net/problem/2461,지역본선,2461
+2011,중등,4,보도 블럭,,,NONE,https://www.acmicpc.net/problem/2462,지역본선,2462
+2011,중등,5,비용,분리 집합,우선순위 큐,Platinum,https://www.acmicpc.net/problem/2463,지역본선,2463
+2011,고등,1,나는 학급 회장이다,구현,,Bronze,https://www.acmicpc.net/problem/2456,지역본선,2456
+2011,고등,2,비밀번호,수학,비트마스킹,Gold,https://www.acmicpc.net/problem/2464,지역본선,2464
+2011,고등,3,줄 세우기,세그먼트 트리,,Platinum,https://www.acmicpc.net/problem/2465,지역본선,2465
+2011,고등,4,비용,분리 집합,우선순위 큐,Platinum,https://www.acmicpc.net/problem/2463,지역본선,2463
+2011,고등,5,책장,동적 프로그래밍,덱,Diamond,https://www.acmicpc.net/problem/2466,지역본선,2466
+2012,초등,1,오븐 시계,수학,,Bronze,https://www.acmicpc.net/problem/2525,지역본선,2525
+2012,초등,2,싸이클,구현,,Bronze,https://www.acmicpc.net/problem/2526,지역본선,2526
+2012,초등,3,직사각형,수학,,Silver,https://www.acmicpc.net/problem/2527,지역본선,2527
+2012,초등,4,사다리,수학,,Gold,https://www.acmicpc.net/problem/2528,지역본선,2528
+2012,초등,5,부등호,백트래킹,,Silver,https://www.acmicpc.net/problem/2529,지역본선,2529
+2012,중등,1,인공지능 시계,수학,,Bronze,https://www.acmicpc.net/problem/2530,지역본선,2530
+2012,중등,2,회전 초밥,투 포인터,,Silver,https://www.acmicpc.net/problem/2531,지역본선,2531
+2012,중등,3,먹이 사슬,정렬,LIS,Platinum,https://www.acmicpc.net/problem/2532,지역본선,2532
+2012,중등,4,사회망 서비스(SNS),동적 프로그래밍,트리,Gold,https://www.acmicpc.net/problem/2533,지역본선,2533
+2012,중등,5,카드 배열,위상 정렬,그리디 알고리즘,Diamond,https://www.acmicpc.net/problem/2534,지역본선,2534
+2012,고등,1,아시아 정보올림피아드,정렬,,Silver,https://www.acmicpc.net/problem/2535,지역본선,2535
+2012,고등,2,회전 초밥,투 포인터,,Gold,https://www.acmicpc.net/problem/2531,지역본선,2531
+2012,고등,3,버스 갈아타기,그래프,,Gold,https://www.acmicpc.net/problem/2536,지역본선,2536
+2012,고등,4,점핑 사다리,,,NONE,https://www.acmicpc.net/problem/2537,지역본선,2537
+2012,고등,5,카드 배열,위상 정렬,그리디 알고리즘,Diamond,https://www.acmicpc.net/problem/2534,지역본선,2534
+2013,초등,1,그릇,문자열,,Bronze,https://www.acmicpc.net/problem/7567,지역본선,7567
+2013,초등,2,덩치,브루트포스,,Silver,https://www.acmicpc.net/problem/7568,지역본선,7568
+2013,초등,3,토마토,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/7569,지역본선,7569
+2013,초등,4,줄 세우기,동적 프로그래밍,그리디 알고리즘,Gold,https://www.acmicpc.net/problem/7570,지역본선,7570
+2013,초등,5,점 모으기,정렬,,Silver,https://www.acmicpc.net/problem/7571,지역본선,7571
+2013,중등,1,간지,수학,,Bronze,https://www.acmicpc.net/problem/7572,지역본선,7572
+2013,중등,2,고기잡이,브루트포스,,Gold,https://www.acmicpc.net/problem/7573,지역본선,7573
+2013,중등,3,개구리,스위핑,세그먼트 트리,Platinum,https://www.acmicpc.net/problem/7574,지역본선,7574
+2013,중등,4,줄 세우기,동적 프로그래밍,그리디 알고리즘,Gold,https://www.acmicpc.net/problem/7570,지역본선,7570
+2013,중등,5,바이러스,문자열,KMP,Platinum,https://www.acmicpc.net/problem/7575,지역본선,7575
+2013,고등,1,토마토,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/7576,지역본선,7576
+2013,고등,2,탐사,그래프 탐색(BFS/DFS),,Diamond,https://www.acmicpc.net/problem/7577,지역본선,7577
+2013,고등,3,공장,세그먼트 트리,,Platinum,https://www.acmicpc.net/problem/7578,지역본선,7578
+2013,고등,4,앱,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/7579,지역본선,7579
+2013,고등,5,바이러스,문자열,KMP,Platinum,https://www.acmicpc.net/problem/7575,지역본선,7575
+2014,초등,1,과자,수학,,Bronze,https://www.acmicpc.net/problem/10156,지역본선,10156
+2014,초등,2,자리 배정,구현,,Silver,https://www.acmicpc.net/problem/10157,지역본선,10157
+2014,초등,3,개미,수학,,Silver,https://www.acmicpc.net/problem/10158,지역본선,10158
+2014,초등,4,저울,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/10159,지역본선,10159
+2014,중등,1,자리 배정,구현,,Silver,https://www.acmicpc.net/problem/10157,지역본선,10157
+2014,중등,2,개미,수학,,Silver,https://www.acmicpc.net/problem/10158,지역본선,10158
+2014,중등,3,저울,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/10159,지역본선,10159
+2014,중등,4,암호,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/10160,지역본선,10160
+2014,고등,1,자리 배정,구현,,Silver,https://www.acmicpc.net/problem/10157,지역본선,10157
+2014,고등,2,저울,그래프 탐색(BFS/DFS),,Gold,https://www.acmicpc.net/problem/10159,지역본선,10159
+2014,고등,3,암호,동적 프로그래밍,,Gold,https://www.acmicpc.net/problem/10160,지역본선,10160
+2015,초등,1,10부제,구현,,Bronze,https://www.acmicpc.net/problem/10797,지역본선,10797
+2015,초등,2,세로 읽기,구현,,Bronze,https://www.acmicpc.net/problem/10798,지역본선,10798
+2015,초등,3,쇠막대기,스택,,Silver,https://www.acmicpc.net/problem/10799,지역본선,10799
+2015,초등,4,컬러볼,정렬,,Gold,https://www.acmicpc.net/problem/10800,지역본선,10800
+2015,중등,1,카드 게임,구현,,Bronze,https://www.acmicpc.net/problem/10801,지역본선,10801
+2015,중등,2,쇠막대기,스택,,Silver,https://www.acmicpc.net/problem/10799,지역본선,10799
+2015,중등,3,369게임,동적 프로그래밍,Digit DP,Platinum,https://www.acmicpc.net/problem/10802,지역본선,10802
+2015,중등,4,정사각형 만들기,동적 프로그래밍,그리디 알고리즘,Platinum,https://www.acmicpc.net/problem/10803,지역본선,10803
+2015,고등,1,카드 역배치,구현,,Bronze,https://www.acmicpc.net/problem/10804,지역본선,10804
+2015,고등,2,컬러볼,정렬,,Gold,https://www.acmicpc.net/problem/10800,지역본선,10800
+2015,고등,3,L모양의 종이 자르기,동적 프로그래밍,,Platinum,https://www.acmicpc.net/problem/10805,지역본선,10805
+2015,고등,4,공중도시,그래프 이론,단절점/단절선,Diamond,https://www.acmicpc.net/problem/10806,지역본선,10806
